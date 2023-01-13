@@ -1,0 +1,284 @@
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.BasicLab.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.InstrumentLabDigital.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.UserLabBasic.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.BasicLab.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.InstrumentLabDigital.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.UserLabBasic.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\COIL AND EDGE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.BasicLab.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.InstrumentLabDigital.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.UserLabBasic.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\LATCHING\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.BasicLab.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.InstrumentLabDigital.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Mitov.UserLabBasic.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+H:\Blog dan Video Fourier PLC\PLC\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Interop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.AssemblyReference.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Interop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.ResolveComReference.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Interop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.AssemblyReference.cache
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Interop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.ResolveComReference.cache
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\Proyek Mitsubishi\Simualtor Baru\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Interop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.AssemblyReference.cache
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Interop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.ResolveComReference.cache
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Latching.exe.config
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Latching.exe
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Latching.pdb
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Latching.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Latching.exe
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Latching.xml
+D:\QSeries\Final\[ FIXED ]\Latching\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Latching.pdb
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcComRcw.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\Interop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.AssemblyReference.cache
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\Interop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.ResolveComReference.cache
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainMenu.resources
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.cache
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CoreCompileInputs.cache
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.CopyComplete
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\SERVO JOG.exe.config
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\SERVO JOG.exe
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\SERVO JOG.pdb
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\bin\Debug\SERVO JOG.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\SERVO JOG.exe
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\SERVO JOG.xml
+D:\QSeries\Final\[ FIXED ]\Servo\AdvancedHMIv399xR1\AdvancedHMI\obj\Debug\SERVO JOG.pdb

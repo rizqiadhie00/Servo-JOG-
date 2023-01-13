@@ -1,0 +1,51 @@
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\DI COUNTER\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojAssemblyReference.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CopyComplete
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+H:\Blog dan Video Fourier PLC\PLC\Siemens\Siemens\Data Mentah\PLC SEPARATOR 3 PHASE\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.AssemblyReference.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.CopyComplete
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\Proyek Mitsubishi\Mitsubishi\Simulator\Latching\AdvancedHMIv399xR1\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
